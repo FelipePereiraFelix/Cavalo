@@ -1,0 +1,16 @@
+body{
+background-image:radial-gradient(aqua,purple);
+background-image:url(Vaporwave.jpg);
+background-size:100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1{
+text-align: center;
+color:aqua;
+font-family: 'Courier New', Courier, monospace;
+}
+h2{
+color:aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
